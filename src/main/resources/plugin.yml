@@ -1,0 +1,11 @@
+name: ChestLock
+version: ${project.version}
+main: me.majekdor.chestlock.Lockette
+api-version: 1.16
+prefix: ChestLock
+authors: [ Majekdor ]
+description: Easily lock chests, barrels, doors, furnaces, etc.
+website: https://github.com/Majekdor
+commands:
+  lockette:
+    description: 

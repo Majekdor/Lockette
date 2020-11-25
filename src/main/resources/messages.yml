@@ -1,0 +1,19 @@
+# =========================
+# | MESSAGE CONFIGURATION |
+# =========================
+
+# Placeholders:
+# These will be replaced if applicable. Don't throw these into any random message and expect them to work
+# %container% will be replaced with the type of container ie. chest, barrel, etc.
+# %player% will be replaced by a specific player name ie. container owner, new trustee, etc.
+
+container-locked: '&6This %container% belongs to %player%.'
+
+lock-created: '&aThis %container% is now locked.'
+
+lock-broken: '&cThis %container% is no longer locked.'
+
+trustee-added: '%player% is now allowed access to this %container%.'
+
+trustee-removed: '%player% is no longer allowed access to this %container%.'
+
